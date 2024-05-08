@@ -2,7 +2,7 @@
 
 **USE >>>** https://hehe1696.github.io/CookieRunSpriteTester/
 
-Open and test Cookie Run sprite sheets, mainly for testing personal sprite mods.
+Open and test Cookie Run sprites and frames, mainly for testing personal sprite mods.
 
 Input a .zip file filled with all of the individual, split-up sprites for the software to work properly.
 
